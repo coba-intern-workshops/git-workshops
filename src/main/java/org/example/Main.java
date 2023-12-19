@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         int a = 10;
         // pusty komentarz
+
+        int b = 20;
     }
 }
