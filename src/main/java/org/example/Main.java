@@ -6,6 +6,6 @@ public class Main {
         int a = 10;
         // pusty komentarz
 
-        int b = 20;
+        int b = 10;
     }
 }
